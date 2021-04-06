@@ -1,0 +1,25 @@
+{
+  "name": "PrinterPlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-printer-plugin",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakopeedakota/printer-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "Wyatt Holmes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakopeedakota/printer-plugin/issues"
+  },
+  "homepage": "https://github.com/shakopeedakota/printer-plugin#readme"
+}
