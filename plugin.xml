@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-printer-plugin" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>PrinterPlugin</name><js-module name="PrinterPlugin" src="www/PrinterPlugin.js"><clobbers target="cordova.plugins.PrinterPlugin" /></js-module><platform name="windows"><js-module name="PrinterPlugin" src="src/windows/PrinterPlugin.js"><runs target="" /></js-module></platform></plugin>
